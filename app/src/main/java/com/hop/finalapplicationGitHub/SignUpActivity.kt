@@ -1,8 +1,9 @@
-package com.example.finalapplication
+package com.hop.finalapplicationGitHub
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import finalapplicationGitHub.R
 import kotlinx.android.synthetic.main.activity_sign_up.*
 
 class SignUpActivity : AppCompatActivity() {
