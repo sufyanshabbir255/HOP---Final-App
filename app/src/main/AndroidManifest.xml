@@ -10,16 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FinalApplication">
         <activity
-            android:name="com.hop.finalapplicationGitHub.DashboardActivity"
+            android:name="com.hop.finalapplicationGitHub.ui.DashboardActivity"
             android:exported="true" />
         <activity
-            android:name="com.hop.finalapplicationGitHub.SignUpActivity"
+            android:name="com.hop.finalapplicationGitHub.ui.SignUpActivity"
             android:exported="true" />
         <activity
-            android:name="com.hop.finalapplicationGitHub.LoginActivity"
+            android:name="com.hop.finalapplicationGitHub.ui.LoginActivity"
             android:exported="true" />
         <activity
-            android:name="com.hop.finalapplicationGitHub.MainActivity"
+            android:name="com.hop.finalapplicationGitHub.ui.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

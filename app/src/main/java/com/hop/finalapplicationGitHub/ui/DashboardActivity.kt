@@ -1,4 +1,4 @@
-package com.hop.finalapplicationGitHub
+package com.hop.finalapplicationGitHub.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
