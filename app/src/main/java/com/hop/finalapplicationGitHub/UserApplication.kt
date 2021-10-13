@@ -8,6 +8,7 @@ class UserApplication : Application() {
 
     companion object {
         lateinit var context: Application
+//        val userDatabase: UserDatabase = UserDatabase.buildDatabase(context)
         val userDatabase: UserDatabase by lazy {
             UserDatabase.buildDatabase(context)
         }

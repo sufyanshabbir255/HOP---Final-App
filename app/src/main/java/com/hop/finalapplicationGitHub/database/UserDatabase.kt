@@ -5,7 +5,6 @@ import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
 import com.hop.finalapplicationGitHub.database.dao.UserDao
-import com.hop.finalapplicationGitHub.database.repository.UserRepository
 
 const val DATABASE_VERSION = 1
 
